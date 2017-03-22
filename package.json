@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/rmushtaq21/my-fitness-journal/issues"
   },
-  "homepage": "https://github.com/rmushtaq21/my-fitness-journal#readme"
+  "homepage": "https://github.com/rmushtaq21/my-fitness-journal#readme",
+  "dependencies": {
+    "babel-core": "^6.24.0",
+    "babel-preset-latest": "^6.24.0",
+    "babel-preset-react": "^6.23.0"
+  }
 }
