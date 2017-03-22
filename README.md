@@ -5,6 +5,17 @@ Start tracking your fitness journey today.
  
  
  
+Usage
+---
+ 
+Start the development server with this command:
+ 
+```
+npm start
+```
+ 
+ 
+ 
 Setup
 ---
  
