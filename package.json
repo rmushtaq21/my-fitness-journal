@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmushtaq21/my-fitness-journal.git"
+  },
+  "author": "Ramsha A. Mushtaq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmushtaq21/my-fitness-journal/issues"
+  },
+  "homepage": "https://github.com/rmushtaq21/my-fitness-journal#readme"
+}
